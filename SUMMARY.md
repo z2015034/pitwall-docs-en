@@ -5,26 +5,25 @@
 
 ## Overview
 
-* [Why we built PITWALL.](overview/why-we-built-pitwall..md)
+* [Why we built PITWALL](overview/why-we-built-pitwall.md)
 * [What is PITWALL?](overview/what-is-pitwall.md)
 * [Features](overview/features.md)
 * [Roadmap](overview/roadmap.md)
-* [Release Notes](overview/release-notes/README.md)
-  * [Web UI & Backend](overview/release-notes/web-ui-and-backend/README.md)
-    * [Web UI & Backend - Archive](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/README.md)
-      * [Web UI & Backend Pre-GA](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/README.md)
-        * [Release Notes v.0.12.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.12.x.md)
-        * [Release Notes v.0.11.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.11.x.md)
-        * [Release Notes v.0.10.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.10.x.md)
-        * [Release Notes v.0.9.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.9.x.md)
-        * [Release Notes v.0.8.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.8.x.md)
-        * [Release Notes v.0.7.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.7.x.md)
-  * [Browser Extension](overview/release-notes/browser-extension.md)
+* [Release Notes](overview/releases/README.md)
+  * [Web UI & Backend](overview/releases/webui-backend/README.md)
+    * [Web UI & Backend - Archive](overview/releases/webui-backend/archive/README.md)
+      * [Web UI & Backend Pre-GA](overview/releases/webui-backend/archive/pre-ga/README.md)
+        * [Release Notes v.0.12.x](overview/releases/webui-backend/archive/pre-ga/v0_12_x.md)
+        * [Release Notes v.0.11.x](overview/releases/webui-backend/archive/pre-ga/v0_11_x.md)
+        * [Release Notes v.0.10.x](overview/releases/webui-backend/archive/pre-ga/v0_10_x.md)
+        * [Release Notes v.0.9.x](overview/releases/webui-backend/archive/pre-ga/v0_9_x.md)
+        * [Release Notes v.0.8.x](overview/releases/webui-backend/archive/pre-ga/v0_8_x.md)
+        * [Release Notes v.0.7.x](overview/releases/webui-backend/archive/pre-ga/v0_7_x.md)
+  * [Browser Extension](overview/releases/browser-extension.md)
 
 ## Tutorial - Get Started
-
-* Account
-  * [login/logout](tutorial-get-started/accounts/login_logout.md)
+* Accounts
+  * [Login/Logout](tutorial-get-started/accounts/login_logout.md)
   * [View my profile](tutorial-get-started/accounts/manage-my-account.md)
   * [Manage organization](tutorial-get-started/accounts/manage-organization.md)
 
