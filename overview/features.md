@@ -4,8 +4,8 @@
 
 Studio adding what you need to see across different tools in alerts, enabling ad-hoc research depending on the context of the incident and standardizing the process in your organization.
 
-* Construct what to look up.&#x20;
-* Enabling Snapshot for Instant triage+analysis.&#x20;
+* Construct what to look up.
+* Enabling Snapshot for Instant triage+analysis.
 * No change to current tools.
 
 <figure><img src="https://lh7-us.googleusercontent.com/7y1ps6PAy_YUwi_FifO_BggULmAUTTSO1yksSdRvfF8ODiDQrzEjwA8CWKzqjqCo_IksRcaMn6A736d8nLdGo9SMIc1KV9QZzdHYDqgx9ShSOtUNSQL2_WMCjbrtV-yERDfLW8lIVE-zzs8dum95sLFInw=s2048" alt=""><figcaption></figcaption></figure>
@@ -16,16 +16,15 @@ PITWALL stitches what you would like to review across different tools as clickab
 
 This will provide an instant access to obtain what you need instead of manually opening a browser, switching one tool to another, adjusting the time range of the dashboard back to the time of an alert.  The process is defined in the Studio without making any changes to your current tools.
 
-&#x20;
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Alert in Slack</p></figcaption></figure>
 
 ## Browser Extension
 
-Browser extension gives you an ability to run a research using a text in the browser as a key. This lightweight lookup tool saves your time of manual look up(s) of variety of data. For example :&#x20;
+Browser extension gives you an ability to run a research using a text in the browser as a key. This lightweight lookup tool saves your time of manual look up(s) of variety of data. For example :
 
 * DevOps
-  * Tracing data for a specific application performance.&#x20;
+  * Tracing data for a specific application performance.
 * Security
   * IP reputation
   * Malware site check
