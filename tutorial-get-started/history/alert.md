@@ -14,7 +14,7 @@ The initial screen will look like this.
 ### Alert history
 When an alert is generated and recorded in the history, the screen will look like this.
 
-<figure><img src="../../.gitbook/assets/alert_withdata_ja.png" width="50%"></figure>
+<figure><img src="../../.gitbook/assets/alert_withdata_en.png" width="50%"></figure>
 
 - Executed: Displays the date and time when the alert was executed.
   - ![](../../.gitbook/assets/filter_icon.png) By clicking the icon, you can filter the execution date and time you want to display by date.

@@ -13,7 +13,7 @@ When you use PITWALL, various data is accumulated. You can see the following dat
 
 The default screen will look like this.
 
-<figure><img src="../../.gitbook/assets/analysis_center_home_ja.png" width="50%"></figure>
+<figure><img src="../../.gitbook/assets/analysis_center_home_en.png" width="50%"></figure>
 
 ### Viewing Historical data 
 You can select the period of historical data you want to display using the pull-down list in the upper right corner of the screen.
